@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+.wrapper {
+	width: 70%;	
+	border: 1px solid #d8664c;
+}
+.heading span {
+	display: inline-block;
+}
+.logocont div{
+	margin: 0 0 0 0;
+	display: inline-block;
+	margin-right: 20px;
+}
+.logo {float: left; }
+.motto {
+	color: #de6c85;
+}
+.clear {
+	clear: both;
+}
+.home-box{
+	width: 100%;
+	background-color: #d8664c;
+	color: #fff;
+	padding: 2px;
+	font-size: 18px;
+}
+.home-box span{
+	color: #56587e;
+	font-weight: bold;
+}
+.margin{ margin-top : 25px}
+
+.header_nav {
+	float: right;
+	position: relative;
+	top: 60px;
+	right: 0;	
+}
+.header_nav ul li{
+	text-decoration: none;
+	list-style-type: none;
+	border: 1px solid black;
+	display: inline-block;
+	padding: 6px;
+	margin-right: 5px;
+	cursor: pointer;
+}
+.header_nav ul li a{
+	color: #fff;
+}
+.header_nav ul li a:hover{
+	text-decoration: none;
+}
+.list1{
+	background-color: #960;
+}
+.list2{
+	background-color: #006;
+}
+.list3{
+	background-color:  #F30;
+}
+.list4{
+	background-color: #090;
+}
+.strength{
+	color: #fff;
+	background-color: #006;
+	padding: 3px;
+	margin-left: 4px;
+	text-align: center;
+}
+.school{
+	color: #fff;
+	background-color: #960;
+	padding: 3px;
+	margin-left: 4px;
+	text-align: center;
+}
